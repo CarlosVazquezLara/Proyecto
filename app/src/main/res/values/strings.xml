@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="proyectouno">Proyecto</string>
+    <string name="hpromedio">Ingrese su promedio</string>
+    <string name="hcorreo">Ingrese su correo</string>
+    <string name="hnombre">Ingrese su nombre</string>
+    <string name="hmatricula">Ingrese su matricula</string>
+    <string name="bgrabar">Grabar</string>
+    <string name="dmatricula">Matricula</string>
+    <string name="dnombre">Nombre</string>
+    <string name="dcorreo">Correo</string>
+    <string name="dpromedio">Promedio</string>
+</resources>
